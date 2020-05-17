@@ -11,7 +11,7 @@ play.addEventListener('click', function () {
     }
 });
 
-const numShapes = 3
+const numShapes = 5
 const maxSize = 50
 
 let colors = []
