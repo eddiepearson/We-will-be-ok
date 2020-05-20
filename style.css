@@ -23,7 +23,7 @@ main, article {
 .name {
     max-width: 50vw;
     width: 35%;
-    font-size: calc(1.0rem + 1.0vw);
+    font-size: calc(.7rem + .7vw);
     text-align: center;
     margin: 1em;
     display: grid;
@@ -81,7 +81,7 @@ section {
 
 p {
     font-weight: 300;
-    font-size: calc(1.0rem + 1.0vw);
+    font-size: calc(.7rem + .7vw);
     grid-row: 2 / span 4;
     grid-column: 2 / span 3;
     text-align: left;
